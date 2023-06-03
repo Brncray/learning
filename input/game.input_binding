@@ -1,0 +1,12 @@
+key_trigger {
+  input: KEY_D
+  action: "MOVE_RIGHT"
+}
+key_trigger {
+  input: KEY_A
+  action: "MOVE_LEFT"
+}
+mouse_trigger {
+  input: MOUSE_BUTTON_LEFT
+  action: "touch"
+}
