@@ -17,3 +17,4 @@ If you run into trouble, help is available in [our forum](https://forum.defold.c
 Happy Defolding!
 
 ---
+https://youtu.be/VFh2mfqmiRU?t=2494
